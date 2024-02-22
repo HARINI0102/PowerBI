@@ -1,17 +1,30 @@
-# PowerBI
-Amazon Dataset 2021 analysis
-This repository contains a comprehensive dashboard created in PowerBI for analyzing Amazon Prime video user data. 
-The dashboard provides valuable insights into user behavior, subscription trends, content consumption patterns, and more. 
-By visualizing key metrics and trends, stakeholders can make informed decisions to optimize user experience, content offerings, and marketing strategies.
-Let See algorithm for visulaization:
-STEP 1: Extract Amazon prime dataset ( I have attached the dataset file)
-Step 2: Transform the data
-Step 3 : load the data to power query
-Step 4: Do needed changes to the data (such as calculating,merge,append,balancing the null values etc,.)
-Step 5: Start creating the visuals in canvas (Navigate through different sections of the dashboard using interactive filters and slicers. Drill down into specific metrics and dimensions to uncover actionable insights.)
-Customization: Customize the dashboard layout, visualizations, and colors to suit specific 
-Step 6: Filtering, visuals,graphis,colors,title formating (Customize the dashboard layout, visualizations, and colors to suit specific requirements and preferences. Add new visualizations or metrics as needed to address specific business questions)
-Step 7: publishing the data or can save as pdf or as .pbi file in PC.
+
+"Amazon Dataset 2021 analysis" 
+
+
+This repository includes a complete PowerBI dashboard for examining user statistics related to Amazon Prime video. 
+
+The dashboard offers insightful data on user behavior, trends in subscriptions, patterns of content consumption, and other topics. 
+
+Stakeholders may maximize user experience, content offerings, and marketing tactics by making educated decisions based on the visual representation of important data and trends. 
+
+Let's look at the visualization algorithm:
+
+Step 1:  Extract the Amazon Prime dataset (the file containing the dataset is attached).
+
+Step 2: Transform the information
+
+Step 3: Open Power Query and load the data. 
+
+Step 4: Adjust the data as necessary (e.g., by computing, merging, appending, balancing the null values, etc.).
+
+Step 5: Begin creating the visuals in Canvas. Use interactive filters and slicers to explore the dashboard's various parts. Investigate in-depth particular metrics and dimensions to get useful information.) Personalization: Customize the color scheme, visuals, and dashboard layout to match particular 
+
+Step 6: Formatting the title, images, graphics, colors, and filters (Adapt the dashboard's color scheme, graphics, and layout to your own requirements and preferences. When necessary, add new metrics or visuals to answer certain business problems. 
+
+Step 7: publish the data or save it to a PC as a PDF or ".pbi "file. 
+
 ############
-FEATURES USED:
-User Demographics,Subscription Trends,Content Consumption,Rating by total countries,User Engagement(TV/Movies), many slicers such as strat date,end date,no.of titles,etc,.
+
+User demographics, subscription trends, content consumption, rating by all nations, user engagement (TV/movies), and several slicers like start date, finish date, number of titles, etc. are among the features that are used.
+
